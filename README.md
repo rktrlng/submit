@@ -1,7 +1,7 @@
 submit
 ======
 
-An example submit repository. Add projects you want to submit to the .csv file.
+An example submit repository. Add projects you want to submit to the 'projects.csv' file.
 
 update.sh
 ---------
