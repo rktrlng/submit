@@ -1,0 +1,16 @@
+### ignore build files
+*.[oa]
+*~
+
+### ignore os files
+.DS_*
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+### ignore dirs listed in file.csv
+interfaces_teensy
+interfaces_pointers
